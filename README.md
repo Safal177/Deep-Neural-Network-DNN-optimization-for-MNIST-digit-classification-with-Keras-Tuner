@@ -23,7 +23,7 @@ Key objectives are:
 •	Clearly shown basic understanding of DNN model design, model optimization and evaluation
 
 # Project file:
-Keras Tuner MNIST Digit Classification DNN Hyperparameter Optimization.ipynb
+Keras_Tuner_MNIST_Digit_Classification_DNN_Hyperparameter_Optimization.ipynb
 
 
 
